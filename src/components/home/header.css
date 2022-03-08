@@ -1,0 +1,12 @@
+#judulKedua {
+  color: blueviolet;
+  background: orange;
+}
+
+.subJudul {
+  color: aquamarine;
+  background-color: burlywood;
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+}
